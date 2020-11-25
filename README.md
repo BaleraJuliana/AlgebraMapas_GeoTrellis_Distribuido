@@ -1,7 +1,7 @@
 > **Project status:** not completed :warning: </br>
 > **Author:** Juliana Marino Balera :busts_in_silhouette:
 
-# Álgebra de mapas com o framework GeoTrellis :earth_americas:
+# Álgebra de mapas com o framework GeoTrellis (Distribuido) :earth_americas:
 
 O presente repositório é fruto de um experimento que foi desenvolvido durante a Disciplina CAP349-3-Banco de Dados Geográficos no curso de Pós-Graduação em Computação Aplicada do INPE. A metodologia e a implementação oficiais podem ser encontradas no portal de queimadas do DGI/INPE (http://queimadas.dgi.inpe.br/queimadas/portal). O experimento é focado no uso da biblioteca GeoTrellis para realizar cálculos de Álgebra de Mapas para obter o risco de queimadas em determinadas regiões do Brasil.   
 
